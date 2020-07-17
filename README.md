@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+I'm Aldán, a Computer Science student from Santiago de Compostela. I am interested in mass transportation systems, graphic design, PBX systems, webserver backends, Android development, and lots of more things!
+
+I love languages as well. Some I know are:
+- Spanish
+- Galician
+- English
+- French
+- Italian
+- Portuguese *(by similarity to Galician)*
+- Chinese (tried it some years ago but I have almost fogotten everything)
+- German (trying it as I'm living in Germany now but I find it very hard)
+
+Feel free to contact me anytime. I am always open to new oportunities :)
+
 <!--
 **ACMCMC/ACMCMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
