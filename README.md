@@ -1,3 +1,5 @@
+![Logo](https://github.com/ACMCMC/ACMCMC/blob/master/ACMC%20Logo%20(3).png)
+
 ### Hi there 👋
 
 I'm Aldán, a Computer Science student from Santiago de Compostela. I am interested in mass transportation systems, graphic design, PBX systems, webserver backends, Android development, and lots of more things!
