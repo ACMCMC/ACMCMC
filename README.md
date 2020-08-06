@@ -1,4 +1,4 @@
-<img src="https://github.com/ACMCMC/ACMCMC/blob/master/ACMC%20Logo.png" alt="ACMC Logo" width="200"/>
+<img src="https://github.com/ACMCMC/ACMCMC/blob/master/Logo.png" alt="ACMC Logo" width="200"/>
 
 ### Hi there 👋
 
