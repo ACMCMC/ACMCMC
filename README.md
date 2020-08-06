@@ -1,4 +1,4 @@
-![Logo](https://github.com/ACMCMC/ACMCMC/blob/master/ACMC%20Logo.png)
+<img src="https://github.com/ACMCMC/ACMCMC/blob/master/ACMC%20Logo.png" alt="ACMC Logo" width="200"/>
 
 ### Hi there 👋
 
