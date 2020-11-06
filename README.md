@@ -12,9 +12,10 @@ I love languages as well. Some I know are:
 - Italian
 - Portuguese *(by similarity to Galician)*
 - Chinese (tried it some years ago but I have almost fogotten everything)
-- German (trying it as I'm living in Germany now but I find it very hard)
 
 Feel free to contact me anytime. I am always open to new oportunities :)
+
+![My stats](https://github-readme-stats.vercel.app/api?username=ACMCMC)
 
 <!--
 **ACMCMC/ACMCMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
