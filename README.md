@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Aldán, a Computer Science student from Santiago de Compostela. I am interested in mass transportation systems, graphic design, PBX systems, webserver backends, Android development, and lots of more things!
+I'm Aldán, a Computer Science student from Santiago de Compostela. I am interested in mass transportation systems, graphic design, PBX systems, webserver backends, Android development, and lots of other things!
 
 I love languages as well. Some I know are:
 - Spanish
