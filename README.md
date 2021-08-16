@@ -19,9 +19,9 @@ Feel free to contact me anytime. I am always open to new oportunities :)
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=ACMCMC&count_private=true&show_icons=true)
 
+<!--
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ACMCMC&layout=compact)
 
-<!--
 **ACMCMC/ACMCMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
