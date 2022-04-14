@@ -11,7 +11,7 @@ I love languages as well. Some I know are:
 - French
 - Italian
 - Portuguese *(by similarity to Galician)*
-- Chinese (tried it some years ago but I have almost fogotten everything)
+- Chinese (tried it some years ago but I have almost forgotten everything)
 
 Feel free to contact me anytime. I am always open to new oportunities :)
 
