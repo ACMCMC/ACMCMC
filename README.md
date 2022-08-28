@@ -2,18 +2,7 @@
 
 ### Hi there 👋
 
-I'm Aldán, a Computer Science student from Santiago de Compostela. I am interested in mass transportation systems, graphic design, PBX systems, webserver backends, Android development, and lots of other things!
-
-I love languages as well. Some I know are:
-- Spanish
-- Galician
-- English
-- French
-- Italian
-- Portuguese *(by similarity to Galician)*
-- Chinese (tried it some years ago but I have almost forgotten everything)
-
-Feel free to contact me anytime. I am always open to new oportunities :)
+Feel free to contact me anytime. I am always open to new opportunities :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACMCMC&layout=compact)
 
