@@ -2,7 +2,9 @@
 
 ### Hi there 👋
 
-Feel free to contact me anytime. I am always open to new opportunities :)
+I'm Aldan – a mix of researcher and developer.
+
+Wanna know more about me? 👉🏻 **[Check this out!](https://acmc-website.web.app/?utm_source=github&utm_medium=profile&utm_campaign=intro)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACMCMC&layout=compact)
 
